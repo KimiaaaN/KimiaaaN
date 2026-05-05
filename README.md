@@ -1,15 +1,12 @@
 # Hi there 👋
-I am Kimia Nahravanian ,an enthusiastic Computer Engineer deeply passionate about AI and ML,currently working at KPKS comapany. 🚀
+I'm Kimia Nahravanian — an AI & Data Engineer building intelligent, agentic AI systems. Currently developing LLM-powered AI agents using NLP, NER, and RAG, with a focus on real-world data extraction across multiple domains. I also have hands-on experience in computer vision, full-stack development, and data engineering. 🚀
 
-# ✨ Knowing more about me...
-
-I am Dedicated and forward-thinking computer engineer with a strong focus on crafting user-centric websites and applications while excelling in AI/ML model training, particularly within computer vision and image processing domains. Recognized for innovative problem-solving and an unwavering dedication to continuous skill enhancement, I excel in managing diverse tasks with adaptability and a positive approach.  
+# 🔭 What I'm working on:
+Building oncology-focused AI agents with LangGraph, LLMs, and RAG — with plans to expand across industries.
 
 
 # 💻Skills:
-Python,Artificial Intelligence, Machine Learning, computer vision, TensorFlow, Keras, OpenCV, pyTorch, C++, Java, JavaScript, Node.js, JQuery, HTML5, CSS3, Bootstrap, C#, ASP.NET, SQL, WordPress, SEO
-
-
+Python, LLMs, LangGraph, RAG, NLP, NER, Agentic AI, TensorFlow, Keras, PyTorch, OpenCV, Computer Vision, React, React Native, JavaScript, Node.js, HTML/CSS, Bootstrap, C#, ASP.NET, SQL, WordPress, SEO
 
 
 
